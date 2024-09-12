@@ -16,7 +16,7 @@ timezone:
 
 title: Mateus Gurgel # the main title
 
-tagline: Project updates  # it will display as the subtitle
+tagline: Blog about my projects # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Mateus Gurgel github page.
